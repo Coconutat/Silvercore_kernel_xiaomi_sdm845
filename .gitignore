@@ -127,4 +127,5 @@ Android.bp
 # Extra files
 obj
 out
-AnyKernel3
+kernel_log-*
+*.zip
